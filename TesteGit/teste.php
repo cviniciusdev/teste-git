@@ -7,7 +7,7 @@
 </head>
 <body>
   
-    <h1>Título PULL ALTERADO</h1>
+    <h1>Título PULL ALTERADO NOVAMENTE</h1>
     <p>Criação teste do parágrafo no Documento</p>
     <?php echo "Novo arquivo criado para aprender PULL"?>
 
